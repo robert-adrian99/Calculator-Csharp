@@ -1,6 +1,6 @@
 # Calculator
 
-- This project is an implemenation of the classical app Calculator in C#.
+- This project is an implemenation of the classic app Calculator in C#.
 - It was created by me using Windows Forms Application in Visual Studio.
 - In this app I implemented most of the functionalities of a calculator.
 
